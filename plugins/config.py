@@ -38,7 +38,7 @@ class Config(object):
         if x.isdigit()
     )
 
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://VelouraMusic2002:VelouraMusic2002@velouramusic.p1yfjn6.mongodb.net/?appName=VelouraMusic")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "")
 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004401247277"))
     LOGGER = logging
