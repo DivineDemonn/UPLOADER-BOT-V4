@@ -11,9 +11,9 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-    API_ID = int(os.environ.get("API_ID", ))
-    API_HASH = os.environ.get("API_HASH", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8995902738:AAF39aDRwDYOkQh8NoxJFZmCmOrOa5Tw_5g")
+    API_ID = int(os.environ.get("API_ID", 23559126 ))
+    API_HASH = os.environ.get("API_HASH", "58347a441c011b1b9ee3367ea936dcc4")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     MAX_FILE_SIZE = 2194304000
@@ -38,16 +38,16 @@ class Config(object):
         if x.isdigit()
     )
 
-    DATABASE_URL = os.environ.get("DATABASE_URL", "")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://VelouraMusic2002:VelouraMusic2002@velouramusic.p1yfjn6.mongodb.net/?appName=VelouraMusic")
 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004401247277"))
     LOGGER = logging
-    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "8761323557"))
     SESSION_NAME = "UploaderXNTBot"
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1004442355712")
 
     TG_MIN_FILE_SIZE = 2194304000
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "@RadhimaaMusicBot")
     ADL_BOT_RQ = {}
 
     # Set False off else True
