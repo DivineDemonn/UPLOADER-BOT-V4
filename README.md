@@ -62,18 +62,26 @@ If you have any questions or would like to sponsor this project in another way, 
 </b>
 </details>
 
+
 ## How To Deploy Heroku
 
-<b><details><summary>Tap On Me For Deploy</summary>
+<details>
+<summary>Tap On Me For Deploy</summary>
 
-#
+<br>
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/DivineDemonn/UPLOADER-BOT-V4/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a href="https://github.com/DivineDemonn/UPLOADER-BOT-V4/fork">
+  <img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-#
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V4"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+<br><br>
 
-</b>
+<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDivineDemonn%2FUPLOADER-BOT-V4">
+  <img alt="Deploy to Heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
+
+<br><br>
+
 </details>
 
 ### How To Deploy Render
