@@ -35,7 +35,7 @@
     "DATABASE_URL": {
       "description": "Your Mongodb Url from mongodb.com",
       "value": "mongodb+srv://VelouraMusic2002:VelouraMusic2002@velouramusic.p1yfjn6.mongodb.net/?appName=VelouraMusic"
-      "
+      
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
