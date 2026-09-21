@@ -11,9 +11,9 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8995902738:AAF39aDRwDYOkQh8NoxJFZmCmOrOa5Tw_5g")
-    API_ID = int(os.environ.get("API_ID", 23559126 ))
-    API_HASH = os.environ.get("API_HASH", "58347a441c011b1b9ee3367ea936dcc4")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8890692300:AAEpVvuVPPhlDYnmv8gVeZNE_3gANUF-LFI")
+    API_ID = int(os.environ.get("API_ID", 24977986 ))
+    API_HASH = os.environ.get("API_HASH", "abc6095228862c7502397c928bd7999e")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     MAX_FILE_SIZE = 2194304000
@@ -26,7 +26,7 @@ class Config(object):
     OUO_IO_API_KEY = ""
     MAX_MESSAGE_LENGTH = 4096
     PROCESS_MAX_TIMEOUT = 3600
-    DEF_WATER_MARK_FILE = "@UploaderXNTBot"
+    DEF_WATER_MARK_FILE = "@Url_uploderbot"
 
     ADMIN = set(
         int(x) for x in environ.get("ADMIN", "").split()
@@ -40,14 +40,14 @@ class Config(object):
 
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://VelouraMusic2002:VelouraMusic2002@velouramusic.p1yfjn6.mongodb.net/?appName=VelouraMusic")
 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004401247277"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004468053767"))
     LOGGER = logging
-    OWNER_ID = int(os.environ.get("OWNER_ID", "8761323557"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "8885547727"))
     SESSION_NAME = "UploaderXNTBot"
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1004442355712")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1004327295605")
 
     TG_MIN_FILE_SIZE = 2194304000
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "@RadhimaaMusicBot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Url_uploderbot")
     ADL_BOT_RQ = {}
 
     # Set False off else True
