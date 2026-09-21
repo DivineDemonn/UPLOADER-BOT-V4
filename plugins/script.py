@@ -1,3 +1,4 @@
+
 # ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL
 
 from pyrogram import enums
@@ -255,9 +256,7 @@ as a file or video.
 
     TEXT = "Sᴇɴᴅ ᴍᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ"
 
-    IFLONG_FILE_NAME = (
-        "Only 64 characters can be named."
-    )
+    IFLONG_FILE_NAME = "Only 64 characters can be named."
 
     RENAME_403_ERR = (
         "Sorry. You are not permitted to rename this file."
@@ -281,9 +280,7 @@ as a file or video.
         "File Name: {}"
     )
 
-    UPLOAD_START = (
-        "📤 Uploading... 📤"
-    )
+    UPLOAD_START = "📤 Uploading... 📤"
 
     # ============================================================
     # FILE SIZE / TELEGRAM LIMITS
